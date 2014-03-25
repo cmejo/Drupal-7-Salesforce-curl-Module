@@ -1,0 +1,11 @@
+name = ICS cURL Rule Library
+description = Provides an action for making cURL requests to Salesforce.
+package = Rules
+core = 7.x
+version = "7.x-1.0-alpha1"
+
+dependencies[] = rules
+dependencies[] = webclient
+
+
+project = "ics_curl_rule"
